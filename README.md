@@ -27,4 +27,4 @@ The goal of this project is to perform a comprehensive analysis of the hotel dom
 
 - **Python Programming:** Enhanced proficiency in Python for data analysis, cleaning, transformation, and visualization.
 - **Data Viusualization:** Utilized Matplotlib library to create charts and bars.
-- **Pandas Fundamentals-** Created various dataframes, used group by functions, concatenated and merged data, handled NA values, read CSV files, etc.
+- **Pandas Fundamentals:** Created various dataframes, used group by functions, concatenated and merged data, handled NA values, read CSV files, etc.
