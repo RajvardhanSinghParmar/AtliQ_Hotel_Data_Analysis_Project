@@ -13,7 +13,7 @@ The goal of this project is to perform a comprehensive analysis of the hotel dom
 **Data Cleaning:** Handling missing values and outliers.
 **Data Transformation:** Adding occupancy percentage columns.
 **Insights Generation:** Answering key questions:
-    ● Calculating average occupancy rate by room type..
+    - ● Calculating average occupancy rate by room type..
     ● Calculating average occupancy rate per city.
     ● Identifying occupancy rate on weekdays and weekends.
     ● In the month of June, what is the occupancy for different cities?
